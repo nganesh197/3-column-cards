@@ -10,7 +10,7 @@ body{
     display: flex;
     flex-direction: row;
     width: 65vw;
-    height: minmax(60vh, 100%);
+    height: auto;
     padding: auto;
     margin: auto;
 
